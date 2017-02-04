@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c82f4bc5-8b23-4ea7-a0ba-2d1eea8e6bcc" name="Default" comment="Sum of two numbers">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Binary.java" />
+    <list default="true" id="c82f4bc5-8b23-4ea7-a0ba-2d1eea8e6bcc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DemoWhile.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Binary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoWhile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DemoWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -61,6 +71,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Sum.java" />
         <option value="$PROJECT_DIR$/src/Binary.java" />
+        <option value="$PROJECT_DIR$/src/DemoWhile.java" />
       </list>
     </option>
   </component>
@@ -124,7 +135,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Binary">
+  <component name="RunManager" selected="Application.DemoWhile">
     <configuration default="false" name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Sum" />
@@ -143,6 +154,21 @@
     <configuration default="false" name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Binary" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DemoWhile" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -420,14 +446,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Sum" />
       <item index="1" class="java.lang.String" itemvalue="Application.Binary" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DemoWhile" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Binary" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Sum" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoWhile" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Binary" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486217484014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Convert number Binary to other number system">
+      <created>1486217930136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486217930136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -496,7 +531,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sum of two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of two numbers" />
+    <MESSAGE value="Convert number Binary to other number system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert number Binary to other number system" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -527,6 +563,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding />
         </state>
       </provider>
