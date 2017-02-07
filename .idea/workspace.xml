@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82f4bc5-8b23-4ea7-a0ba-2d1eea8e6bcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/displaydata/displaydata.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/displaydata/src/Accept.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -681,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486221448799</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Accept input from keyboard and display data">
+      <created>1486486898592</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1486486898592</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -729,7 +732,8 @@
     <MESSAGE value="print number 1 to 10 using for loop" />
     <MESSAGE value="Switch Case" />
     <MESSAGE value="Continue statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Continue statement" />
+    <MESSAGE value="Accept input from keyboard and display data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accept input from keyboard and display data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
