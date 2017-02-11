@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" filepath="$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/displaydata/displaydata.iml" filepath="$PROJECT_DIR$/displaydata/displaydata.iml" />
     </modules>
   </component>
