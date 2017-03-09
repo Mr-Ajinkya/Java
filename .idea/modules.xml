@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/PlayerScore/PlayerScore.iml" filepath="$PROJECT_DIR$/PlayerScore/PlayerScore.iml" />
       <module fileurl="file://$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" filepath="$PROJECT_DIR$/PoundToKilogram/PoundToKilogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/StarPrint/StarPrint.iml" filepath="$PROJECT_DIR$/StarPrint/StarPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch_Statement/Switch_Statement.iml" filepath="$PROJECT_DIR$/Switch_Statement/Switch_Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/displaydata/displaydata.iml" filepath="$PROJECT_DIR$/displaydata/displaydata.iml" />
     </modules>
   </component>
