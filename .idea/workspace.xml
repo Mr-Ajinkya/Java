@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82f4bc5-8b23-4ea7-a0ba-2d1eea8e6bcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForStatement/ForStatement.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForStatement/src/CalculateIntrest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrimeNumber/src/PrimeNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,15 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalculateIntrest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ForStatement/src/CalculateIntrest.java">
+      <file leaf-file-name="PrimeNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PrimeNumber/src/PrimeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-              <folding>
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="438">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,6 +86,7 @@
         <option value="$PROJECT_DIR$/Switch_Statement/src/Switch.java" />
         <option value="$PROJECT_DIR$/Example_Switch/src/SwitchExample.java" />
         <option value="$PROJECT_DIR$/ForStatement/src/CalculateIntrest.java" />
+        <option value="$PROJECT_DIR$/PrimeNumber/src/PrimeNumber.java" />
       </list>
     </option>
   </component>
@@ -123,6 +121,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeNumber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeNumber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -746,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489046398964</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="For Statement find Interest on amount (Using for loop)">
+      <created>1489055333682</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1489055333682</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -842,7 +879,8 @@
     <MESSAGE value="Switch Statement" />
     <MESSAGE value="Switch Statement Example find Character" />
     <MESSAGE value="Switch Statement Example with string function toLowerCase()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch Statement Example with string function toLowerCase()" />
+    <MESSAGE value="For Statement find Interest on amount (Using for loop)" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Statement find Interest on amount (Using for loop)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -853,14 +891,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Switch_Statement/src/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Example_Switch/src/SwitchExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1204,11 +1234,19 @@
     <entry file="file://$PROJECT_DIR$/ForStatement/src/CalculateIntrest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
           <folding>
             <element signature="e#538#539#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeNumber/src/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
