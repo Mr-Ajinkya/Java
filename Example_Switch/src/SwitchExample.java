@@ -27,6 +27,21 @@ public class SwitchExample {
 
         }
 
+        String month = "july";
+        switch (month.toLowerCase())
+        {
+            case "january":
+                System.out.println("Jan");
+                break;
+
+            case "june":
+                System.out.println("June");
+                break;
+            default:
+                System.out.println("Not sure");
+                break;
+
+        }
 
     }
 
